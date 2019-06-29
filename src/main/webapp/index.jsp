@@ -6,7 +6,6 @@
 
 <p> This is change is to verify the Stage vs Production</p>>
 <p> This is for pratice</p>>
-<p> This is for full on pratice</p>>
 
 </body>
 </html>
